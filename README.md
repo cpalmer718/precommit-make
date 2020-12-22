@@ -61,4 +61,6 @@ The following content is derived from [the GNU Coding Standards](https://www.gnu
 
 ## Version History
 
+22 December 2020: created initial issues and milestones, started infrastructure dev
+
 15 December 2020: drafted initial format specification

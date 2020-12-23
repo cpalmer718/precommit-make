@@ -57,6 +57,10 @@ The following content is derived from [the GNU Coding Standards](https://www.gnu
 
 ## Citations
 
+This package was created with _Cookiecutter_ and the *`audreyfeldroy/cookiecutter-pypackage`* project template.
+
+ - Cookiecutter: https://github.com/audreyr/cookiecutter
+ - `audreyfeldroy/cookiecutter-pypackage`: https://github.com/audreyfeldroy/cookiecutter-pypackage
 
 
 ## Version History
